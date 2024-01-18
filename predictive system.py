@@ -2,7 +2,7 @@ import numpy as np
 import pickle
 
 #loading the model
-loaded_model=pickle.load(open('C:/Users/HP/Desktop/data/diabetics deployment/trained_model.sav', 'rb'))
+loaded_model=pickle.load(open('C:/Users/HP/Desktop/data/diabetics deployment/Diabetics-Prediction/trained_model.sav', 'rb'))
 
 
 
